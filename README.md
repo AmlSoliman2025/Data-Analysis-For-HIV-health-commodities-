@@ -52,7 +52,7 @@ This Jupyter Notebook includes:
 |------|-------------|
 | `Supply_Chain_Analysis_Plan.ipynb` | Main notebook with all analysis |
 | `README.md` | Project overview and instructions |
-|' REPORT' | Link of Canva|
+|' REPORT' | Link of Canva https://www.canva.com/design/DAGk0-WFsWA/WEts7t_i-awrnBs-0OAPTQ/view?utm_content=DAGk0-WFsWA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb7c1add5de|
 ---
 
 
